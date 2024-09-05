@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "919850976276",
+    "project_id": "fir-workshop-12e83",
+    "storage_bucket": "fir-workshop-12e83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919850976276:android:98aac2edbc0882ac08d301",
+        "android_client_info": {
+          "package_name": "com.flutterfire.act"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj2NVOjPD6pFsOiFsyJV7YFqeoELqFFVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
